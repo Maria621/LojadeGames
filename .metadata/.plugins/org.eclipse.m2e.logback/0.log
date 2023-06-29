@@ -168,3 +168,4 @@
 2023-06-29 14:33:47,465 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuário\Documents\Loja de Games\loja_de_games\src\test\resources
 2023-06-29 14:54:49,744 [Worker-125: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2023-06-29 14:54:49,754 [Worker-125: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-29 14:54:49,758 [Worker-125: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Usuário\Documents\Loja de Games\loja_de_games\src\test\resources
