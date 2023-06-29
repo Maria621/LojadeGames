@@ -1,0 +1,5 @@
+package com.games.loja_de_games.repository;
+
+public interface CategoriaRepository {
+
+}

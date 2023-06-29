@@ -1,0 +1,9 @@
+package com.games.loja_de_games.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.games.loja_de_games.model.ProdutoModel;
+
+public interface ProdutoRepository extends JpaRepository < ProdutoModel, Long >{
+
+}
